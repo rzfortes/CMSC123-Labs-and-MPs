@@ -1,4 +1,4 @@
-#CMSC 123's MPA3: Be a Maze, Be Very Amazed
+#MPA3: Be a Maze, Be Very Amazed
 
 Given a maze (hash symbol for walls, period for "walkable" paths, o for the entrance/starting point, and * for the end/exit), this MP 
 finds a path solution starting from 'o' to '*'. If a path solution was found, period characters will be replaced by 'x' and will be 
