@@ -1,0 +1,10 @@
+Greetings Miss!
+
+I did the Lab Exercise 3 in Java. Then, converted it in Python. The hashtable methods in closed hashing and open hashing worked perfectly fine in Java, but not sure in Python. :)
+
+Thank you miss! Please get well soon :) Godbless!
+
+
+
+Ricafelle Dorothy Z. Fortes
+BSCS III
